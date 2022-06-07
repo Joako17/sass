@@ -17,16 +17,13 @@ section {
     .jumbotron {
         height: 40%;
 
-        h1 {
-            font-size: 48px;
-        }
-
         p {
             text-align: right;
             font-size: 30px;
             font-family: monospace;
         }
     }
+
 }
 
 /* footer inicio */
@@ -52,7 +49,7 @@ footer{
 
 /* contacto wasap */
 .wasap {
-    height: 100px;
+    height: 60px;
     width: 50px;
     position: fixed;
     bottom: 60px;
