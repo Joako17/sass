@@ -1,0 +1,62 @@
+header .navbar {
+    font-size: 30px;
+}
+
+header .navbar-dark {
+    background-color: seagreen;
+}
+
+section {
+    height: 550px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+section .jumbotron {
+    height: 40%;
+}
+
+section .jumbotron h1 {
+    font-size: 48px;
+}
+
+section .jumbotron p {
+    text-align: right;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+/* footer inicio */
+footer {
+    height: 120px;
+    width: 100%;
+    background-color: seagreen;
+}
+
+footer h3 {
+    text-align: center;
+    font-size: 40px;
+}
+
+footer .redes {
+    font-size: 30px;
+    text-align: center;
+}
+
+/* footer fin */
+/* contacto wasap */
+.wasap {
+    height: 100px;
+    width: 50px;
+    position: fixed;
+    bottom: 60px;
+    right: 40px;
+    text-align: center;
+    line-height: 3px;
+    font-size: 30px;
+    border-radius: 50%;
+    color: rgb(35, 155, 11);
+}
+
+/*# sourceMappingURL=estilos.css.map */
